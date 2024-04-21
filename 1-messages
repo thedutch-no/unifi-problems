@@ -1,0 +1,560 @@
+Sun Apr 21 09:12:32 2024 kern.warn kernel: [10802.945834] Ring No = 0
+Sun Apr 21 09:12:32 2024 kern.warn kernel: [10802.945865] Ring No = 0
+Sun Apr 21 09:12:33 2024 kern.info kernel: [10803.960263] [DHCP-SM] e8:db:84:9e:93:bd: d-20-o-10-r-10-a-3558600-r-10-a-3599990-r-10-a-3601010-r-10-a
+Sun Apr 21 09:12:35 2024 kern.info kernel: [10805.990328] [DHCP-SM] c8:c9:a3:54:1b:09: d-10-o-10-r-30-a-3556380-r-10-a-3599970-r-20-a-3599980-r-20-a
+Sun Apr 21 09:12:36 2024 kern.info kernel: [10806.861101] [DHCP-SM] e8:db:84:9e:6d:ec: d-10-o-10-r-20-a-3561040-r-10-a-3600030-r-10-a-3600140-r-10-a
+Sun Apr 21 09:12:36 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=c4:5b:be:d6:be:77 satisfaction_now=32 anomalies=tcp_latency
+Sun Apr 21 09:12:37 2024 kern.info kernel: [10807.991466] [DHCP-SM] e8:9f:6d:94:0f:df: d-20-o-10-r-40-a-3566390-r-10-a-3599960-r-10-a-3599960-r-10-a
+Sun Apr 21 09:12:40 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:12:45 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=c4:5b:be:d6:be:77 satisfaction_now=32 anomalies=tcp_latency
+Sun Apr 21 09:12:46 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"e8:9f:6d:90:66:e6","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"4","arp_reply_gw_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-45"}
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.916653] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.916750] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.916806] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.916861] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.916925] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.917001] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.917073] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.917121] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.917157] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.917194] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.917255] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.917303] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.917349] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.917388] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.917428] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.917481] Ring No = 0
+Sun Apr 21 09:12:50 2024 kern.warn kernel: [10820.917525] Ring No = 0
+Sun Apr 21 09:12:51 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=c4:5b:be:d6:be:77 satisfaction_now=32 anomalies=tcp_latency
+Sun Apr 21 09:12:56 2024 kern.info kernel: [10827.100202] [DHCP-SM] 3c:61:05:84:5d:5c: d-10-o-20-r-30-a-3582520-r-10-a-3600010-r-10-a-3600000-r-10-a
+Sun Apr 21 09:13:01 2024 kern.info kernel: [10831.799157] [DHCP-SM] c8:c9:a3:06:3c:4a: d-20-o-20-r-10-a-3581690-r-10-a-3600010-r-10-a-3599990-r-20-a
+Sun Apr 21 09:13:01 2024 daemon.notice /sbin/udhcpc[2634]: udhcpc: sending renew
+Sun Apr 21 09:13:01 2024 daemon.notice /sbin/udhcpc[2634]: udhcpc: lease of 192.168.10.17 obtained, lease time 7200
+Sun Apr 21 09:13:02 2024 kern.warn kernel: [10833.409464] ra0: total mc2uc sta_cnt[33] pending[0] unknown_free[0] accu[0] !
+Sun Apr 21 09:13:02 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"3a:8f:f5:89:f3:4f","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-60"}
+Sun Apr 21 09:13:03 2024 kern.warn kernel: [10833.859554] 80211> AP Key Add
+Sun Apr 21 09:13:03 2024 kern.warn kernel: [10833.859606] AsicAddSharedKeyEntry(2760): Not support for HIF_MT yet!
+Sun Apr 21 09:13:05 2024 daemon.warn hostapd[2639]: RADIUS: wpa_driver_nl80211_hapd_send_eapol() ==> STA- 3a:8f:f5:89:f3:4f
+Sun Apr 21 09:13:05 2024 daemon.warn hostapd[2639]: RADIUS: wpa_driver_nl80211_hapd_send_eapol() ==> AP- ac:8b:a9:a0:e2:76
+Sun Apr 21 09:13:05 2024 daemon.warn hostapd[2639]: RADIUS: Interface rai0 is in bridge br0
+Sun Apr 21 09:13:05 2024 daemon.warn hostapd[2639]: RADIUS: Send EAPOL Frame(Len: 131)
+Sun Apr 21 09:13:05 2024 daemon.warn hostapd[2639]: RADIUS: wpa_driver_nl80211_hapd_send_eapol() ==> STA- a6:3a:1b:0c:e7:4d
+Sun Apr 21 09:13:05 2024 daemon.warn hostapd[2639]: RADIUS: wpa_driver_nl80211_hapd_send_eapol() ==> AP- ac:8b:a9:a0:e2:76
+Sun Apr 21 09:13:05 2024 daemon.warn hostapd[2639]: RADIUS: Interface rai0 is in bridge br0
+Sun Apr 21 09:13:05 2024 daemon.warn hostapd[2639]: RADIUS: Send EAPOL Frame(Len: 131)
+Sun Apr 21 09:13:05 2024 daemon.warn hostapd[2639]: RADIUS: wpa_driver_nl80211_hapd_send_eapol() ==> STA- 2c:fd:ab:8f:5b:e8
+Sun Apr 21 09:13:05 2024 daemon.warn hostapd[2639]: RADIUS: wpa_driver_nl80211_hapd_send_eapol() ==> AP- ac:8b:a9:a0:e2:76
+Sun Apr 21 09:13:05 2024 daemon.warn hostapd[2639]: RADIUS: Interface rai0 is in bridge br0
+Sun Apr 21 09:13:05 2024 daemon.warn hostapd[2639]: RADIUS: Send EAPOL Frame(Len: 131)
+Sun Apr 21 09:13:05 2024 kern.warn kernel: [10835.772647] rai0: Send EAPOL-Key M4, DA=3a:8f:f5:89:f3:4f, SA=ac:8b:a9:a0:e2:76, len=145
+Sun Apr 21 09:13:05 2024 kern.warn kernel: [10835.774352] rai0: Send EAPOL-Key M4, DA=a6:3a:1b:0c:e7:4d, SA=ac:8b:a9:a0:e2:76, len=145
+Sun Apr 21 09:13:05 2024 kern.warn kernel: [10835.775911] rai0: Recv EAPOL-Key M4, DA=ac:8b:a9:a0:e2:76, SA=3a:8f:f5:89:f3:4f, len=107
+Sun Apr 21 09:13:05 2024 kern.warn kernel: [10835.776049] rai0: Send EAPOL-Key M4, DA=2c:fd:ab:8f:5b:e8, SA=ac:8b:a9:a0:e2:76, len=145
+Sun Apr 21 09:13:05 2024 daemon.info hostapd[2639]: rai0: STA 3a:8f:f5:89:f3:4f WPA: group key handshake completed (RSN)
+Sun Apr 21 09:13:05 2024 daemon.info hostapd[2639]: rai0: STA a6:3a:1b:0c:e7:4d WPA: group key handshake completed (RSN)
+Sun Apr 21 09:13:05 2024 kern.warn kernel: [10835.872576] rai0: Recv EAPOL-Key M4, DA=ac:8b:a9:a0:e2:76, SA=a6:3a:1b:0c:e7:4d, len=107
+Sun Apr 21 09:13:05 2024 daemon.info hostapd[2639]: rai0: STA 2c:fd:ab:8f:5b:e8 WPA: group key handshake completed (RSN)
+Sun Apr 21 09:13:05 2024 kern.warn kernel: [10835.884235] rai0: Recv EAPOL-Key M4, DA=ac:8b:a9:a0:e2:76, SA=2c:fd:ab:8f:5b:e8, len=109
+Sun Apr 21 09:13:05 2024 kern.warn kernel: [10835.885630] 80211> AP Key Add
+Sun Apr 21 09:13:05 2024 kern.warn kernel: [10835.885931] Set Ap Default Key: 2
+Sun Apr 21 09:13:06 2024 kern.info kernel: [10837.030622] [DHCP-SM] c8:c9:a3:54:16:24: d-20-o-10-r-20-a-3586100-r-10-a-3600020-r-10-a-3600030-r-10-a
+Sun Apr 21 09:13:06 2024 kern.info kernel: [10837.221987] [DHCP-SM] 3c:61:05:91:93:c8: d-40-o-10-r-30-a-3595450-r-10-a-3600010-r-10-a-3600060-r-10-a
+Sun Apr 21 09:13:06 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=c4:5b:be:d6:be:77 satisfaction_now=32 anomalies=tcp_latency
+Sun Apr 21 09:13:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=c4:5b:be:d6:be:77 satisfaction_now=32 anomalies=tcp_latency
+Sun Apr 21 09:13:10 2024 kern.info kernel: [10840.851066] [DHCP-SM] 48:55:19:99:8b:c0: d-10-o-10-r-10-a-3599780-r-10-a-3599960-r-10-a-3599920-r-10-a
+Sun Apr 21 09:13:10 2024 kern.info kernel: [10841.154044] [DHCP-SM] c8:c9:a3:54:0f:7c: d-10-o-10-r-20-a-3590730-r-10-a-3600000-r-10-a-3599980-r-10-a
+Sun Apr 21 09:13:10 2024 kern.info kernel: [10841.201807] [DHCP-SM] 7c:87:ce:63:88:4c: d-10-o-10-r-20-a-3599430-r-10-a-3599890-r-10-a-3599890-r-10-a
+Sun Apr 21 09:13:10 2024 kern.info kernel: [10841.329900] [DHCP-SM] a8:03:2a:bb:be:50: d-10-o-50-r-10-a-3599130-r-10-a-3599930-r-10-a-3599920-r-20-a
+Sun Apr 21 09:13:10 2024 kern.info kernel: [10841.386915] [DHCP-SM] a8:03:2a:bb:be:6c: d-20-o-20-r-10-a-3599350-r-10-a-3599910-r-10-a-3599920-r-10-a
+Sun Apr 21 09:13:10 2024 kern.info kernel: [10841.428904] [DHCP-SM] 44:5d:5e:41:d4:da: d-20-o-10-r-30-a-3598840-r-10-a-3600360-r-10-a-3600040-r-20-a
+Sun Apr 21 09:13:11 2024 kern.info kernel: [10841.683474] [DHCP-SM] a8:03:2a:b9:d5:c0: d-10-o-10-r-10-a-3599850-r-10-a-3599910-r-10-a-3599930-r-10-a
+Sun Apr 21 09:13:11 2024 kern.info kernel: [10842.456595] [DHCP-SM] e0:01:c7:e5:19:4e: d-10-o-80-r-20-a-3600230-r-10-a-3600160-r-10-a-3600210-r-10-a
+Sun Apr 21 09:13:12 2024 kern.info kernel: [10842.812590] [DHCP-SM] 44:5d:5e:41:df:b0: d-10-o-20-r-30-a-3600150-r-10-a-3600400-r-20-a-3600050-r-20-a
+Sun Apr 21 09:13:13 2024 kern.info kernel: [10844.206991] [DHCP-SM] 7c:87:ce:65:5b:24: d-10-o-10-r-20-a-3599810-r-10-a-3599970-r-20-a-3599830-r-10-a
+Sun Apr 21 09:13:16 2024 kern.info kernel: [10847.254597] [DHCP-SM] c8:c9:a3:54:10:e1: d-20-o-1930-r-20-a-3549150-r-10-a-3599950-r-10-a-3599920-r-10-a
+Sun Apr 21 09:13:17 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:13:22 2024 kern.info kernel: [10852.665763] [DHCP-SM] 20:1f:3b:d8:95:5c: r-10-a-3600030-r-10-a-3600050-r-10-a-3600130-r-10-a
+Sun Apr 21 09:13:27 2024 kern.info kernel: [10858.024987] [DHCP-SM] 2c:fd:ab:8f:5b:e8: d-20-o-0-r-20-a-3601250-r-10-a-3606580-r-20-a-3608660-r-10-a
+Sun Apr 21 09:13:35 2024 kern.info kernel: [10865.791851] [DHCP-SM] 54:48:e6:dc:8f:f1: d-10-o-10-r-20-a-3600290-r-10-a-3600010-r-10-a-3600060-r-10-a
+Sun Apr 21 09:13:40 2024 kern.info kernel: [10870.711179] [DHCP-SM] 4c:75:25:33:63:e3: d-20-o-80-r-10-a-3582750-r-10-a-3620480-r-10-a-3620990-r-10-a
+Sun Apr 21 09:13:43 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:13:47 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"2c:fd:ab:8f:5b:e8","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-44"}
+Sun Apr 21 09:13:48 2024 kern.info kernel: [10879.530688] [DHCP-SM] e8:68:e7:f1:6b:1e: d-20-o-120-r-30-a-3573880-r-10-a-3630690-r-10-a-3627960-r-10-a
+Sun Apr 21 09:13:55 2024 kern.warn kernel: [10886.253452] addbarsp,(our)txba=64,(peer 3a:8f:f5:89:f3:4f)rxba=64
+Sun Apr 21 09:14:01 2024 kern.info kernel: [10891.887685] [DHCP-SM] 80:64:6f:81:e8:9a: d-10-o-150-r-20-a-3613810-r-10-a-3615430-r-10-a-3615740-r-10-a
+Sun Apr 21 09:14:06 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:14:11 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-49"}
+Sun Apr 21 09:14:13 2024 kern.info kernel: [10903.865784] [DHCP-SM] c4:5b:be:d6:be:77: d-20-o-60-r-10-a-3602170-r-10-a-3628750-r-20-a-3625040-r-10-a
+Sun Apr 21 09:14:15 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:14:21 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:14:30 2024 kern.info kernel: [10920.960114] [DHCP-SM] e8:68:e7:f1:3f:cf: d-10-o-180-r-20-a-3615740-r-10-a-3628460-r-10-a-3629790-r-10-a
+Sun Apr 21 09:14:31 2024 kern.info kernel: [10921.803736] [DHCP-SM] e8:68:e7:ed:92:ae: d-10-o-180-r-20-a-3618860-r-10-a-3626620-r-10-a-3629450-r-10-a
+Sun Apr 21 09:14:42 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"3c:61:05:91:93:c8","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-45"}
+Sun Apr 21 09:14:46 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:15:01 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=65 anomalies=tcp_latency
+Sun Apr 21 09:15:25 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-46"}
+Sun Apr 21 09:15:50 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-52"}
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.110595] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.110650] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.110681] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.110713] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.110744] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.110776] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.110807] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.110839] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.110870] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.110902] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.110952] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.110985] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.111016] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.111048] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.111079] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.111110] Ring No = 0
+Sun Apr 21 09:15:58 2024 kern.warn kernel: [11009.111142] Ring No = 0
+Sun Apr 21 09:16:06 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=72 anomalies=tcp_latency
+Sun Apr 21 09:16:12 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=72 anomalies=tcp_latency
+Sun Apr 21 09:16:21 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=72 anomalies=tcp_latency
+Sun Apr 21 09:16:21 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:ed:92:ae satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:16:51 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=38 anomalies=tcp_latency
+Sun Apr 21 09:16:52 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=38 anomalies=tcp_latency
+Sun Apr 21 09:16:53 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:17:13 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-52"}
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.933301] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.938679] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.943916] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.949404] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.954606] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.960063] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.965254] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.970705] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.975910] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.981356] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.986548] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.991998] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11089.997184] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.002707] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.007953] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.013458] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.018860] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.024090] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.029561] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.034797] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.040276] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.045481] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.051002] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.056475] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.062085] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.067381] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.072859] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.078148] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.083541] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.088916] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.094103] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.099554] Wtbl2TxRateCounterGet(): Previous update not applied by HW yet!(reg_val=0x14001)
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.428115] PSE Reset: MonitorRxPse
+Sun Apr 21 09:17:19 2024 kern.warn kernel: [11090.497883] PDMAResetAndRecovery():Ring Cleanup done!
+Sun Apr 21 09:17:54 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:18:02 2024 kern.warn kernel: [11133.429238] ra0: total mc2uc sta_cnt[33] pending[0] unknown_free[0] accu[0] !
+Sun Apr 21 09:18:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=80:64:6f:81:3e:9a satisfaction_now=76 anomalies=tcp_latency
+Sun Apr 21 09:18:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=67 anomalies=tcp_latency
+Sun Apr 21 09:18:17 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-49"}
+Sun Apr 21 09:18:17 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=80:64:6f:81:3e:9a satisfaction_now=76 anomalies=tcp_latency
+Sun Apr 21 09:18:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=80:64:6f:81:3e:9a satisfaction_now=76 anomalies=tcp_latency
+Sun Apr 21 09:18:41 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=54:48:e6:dc:8f:f1 satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:18:52 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=54:48:e6:dc:8f:f1 satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:18:59 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:19:05 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=39 anomalies=tcp_latency
+Sun Apr 21 09:19:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=39 anomalies=tcp_latency
+Sun Apr 21 09:19:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=39 anomalies=tcp_latency
+Sun Apr 21 09:19:28 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=39 anomalies=tcp_latency
+Sun Apr 21 09:19:43 2024 kern.warn kernel: [11234.527974] PSE Reset: MonitorRxPse
+Sun Apr 21 09:19:43 2024 kern.warn kernel: [11234.548504] PDMAResetAndRecovery():Ring Cleanup done!
+Sun Apr 21 09:20:01 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523267] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523322] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523354] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523385] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523417] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523448] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523480] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523511] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523543] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523574] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523634] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523667] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523698] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523730] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523762] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523793] Ring No = 0
+Sun Apr 21 09:20:01 2024 kern.warn kernel: [11252.523825] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.713707] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.713781] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.713814] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.713845] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.713877] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.713908] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.713939] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.713971] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.714002] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.714034] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.714093] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.714126] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.714158] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.714189] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.714221] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.714252] Ring No = 0
+Sun Apr 21 09:20:06 2024 kern.warn kernel: [11256.714284] Ring No = 0
+Sun Apr 21 09:20:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=50 anomalies=tcp_latency
+Sun Apr 21 09:20:14 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=50 anomalies=tcp_latency
+Sun Apr 21 09:20:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=70 anomalies=tcp_latency
+Sun Apr 21 09:20:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=50 anomalies=tcp_latency
+Sun Apr 21 09:20:52 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=35 anomalies=tcp_latency
+Sun Apr 21 09:20:56 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=35 anomalies=tcp_latency
+Sun Apr 21 09:21:05 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:21:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=35 anomalies=tcp_latency
+Sun Apr 21 09:21:17 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:f1:3f:cf satisfaction_now=77 anomalies=tcp_latency
+Sun Apr 21 09:21:17 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=35 anomalies=tcp_latency
+Sun Apr 21 09:21:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:f1:3f:cf satisfaction_now=77 anomalies=tcp_latency
+Sun Apr 21 09:21:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=35 anomalies=tcp_latency
+Sun Apr 21 09:21:42 2024 kern.warn kernel: [11353.387767] StaTXRetryBurstPeriodicExec: rai0 [a6:3a:1b:0c:e7:4d] tx_attempts=35675/35711, tx_retries=5435/5454, rssi=-65/-46, last_tx_rate=46274, burst_ratio=50/52, burst_count=28
+Sun Apr 21 09:21:43 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"2c:fd:ab:8f:5b:e8","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-44"}
+Sun Apr 21 09:21:52 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=44 anomalies=tcp_latency
+Sun Apr 21 09:22:05 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=44 anomalies=tcp_latency
+Sun Apr 21 09:22:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=44 anomalies=tcp_latency
+Sun Apr 21 09:22:08 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:22:12 2024 kern.warn kernel: [11383.467739] StaTXRetryBurstPeriodicExec: rai0 [a6:3a:1b:0c:e7:4d] tx_attempts=35725/35753, tx_retries=5454/5470, rssi=-65/-46, last_tx_rate=45184, burst_ratio=50/57, burst_count=29
+Sun Apr 21 09:22:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:22:27 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:22:32 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-47"}
+Sun Apr 21 09:22:37 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=4c:75:25:33:63:e3 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:22:48 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=4c:75:25:33:63:e3 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:22:52 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=4c:75:25:33:63:e3 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:23:02 2024 kern.warn kernel: [11433.438452] ra0: total mc2uc sta_cnt[33] pending[0] unknown_free[0] accu[0] !
+Sun Apr 21 09:23:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=24:4c:ab:43:21:7b satisfaction_now=28 anomalies=tcp_latency
+Sun Apr 21 09:23:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=4c:75:25:33:63:e3 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:23:10 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=24:4c:ab:43:21:7b satisfaction_now=28 anomalies=tcp_latency
+Sun Apr 21 09:23:10 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=4c:75:25:33:63:e3 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:23:11 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:23:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=24:4c:ab:43:21:7b satisfaction_now=28 anomalies=tcp_latency
+Sun Apr 21 09:23:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=4c:75:25:33:63:e3 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:23:30 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=24:4c:ab:43:21:7b satisfaction_now=28 anomalies=tcp_latency
+Sun Apr 21 09:23:30 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=4c:75:25:33:63:e3 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:23:52 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=59 anomalies=tcp_latency
+Sun Apr 21 09:23:52 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=59 anomalies=tcp_latency
+Sun Apr 21 09:24:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=24:4c:ab:43:21:7b satisfaction_now=32 anomalies=tcp_latency
+Sun Apr 21 09:24:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=59 anomalies=tcp_latency
+Sun Apr 21 09:24:13 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:24:14 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=24:4c:ab:43:21:7b satisfaction_now=32 anomalies=tcp_latency
+Sun Apr 21 09:24:14 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=59 anomalies=tcp_latency
+Sun Apr 21 09:24:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=24:4c:ab:43:21:7b satisfaction_now=32 anomalies=tcp_latency
+Sun Apr 21 09:24:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=59 anomalies=tcp_latency
+Sun Apr 21 09:24:37 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=21 anomalies=tcp_latency
+Sun Apr 21 09:24:52 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=21 anomalies=tcp_latency
+Sun Apr 21 09:24:58 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=21 anomalies=tcp_latency
+Sun Apr 21 09:25:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=80:64:6f:81:3e:9a satisfaction_now=61 anomalies=tcp_latency
+Sun Apr 21 09:25:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=7c:87:ce:63:88:4c satisfaction_now=79 anomalies=tcp_latency
+Sun Apr 21 09:25:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=21 anomalies=tcp_latency
+Sun Apr 21 09:25:15 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:25:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=80:64:6f:81:3e:9a satisfaction_now=61 anomalies=tcp_latency
+Sun Apr 21 09:25:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=21 anomalies=tcp_latency
+Sun Apr 21 09:25:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=80:64:6f:81:3e:9a satisfaction_now=61 anomalies=tcp_latency
+Sun Apr 21 09:25:23 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=21 anomalies=tcp_latency
+Sun Apr 21 09:25:32 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:26:14 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"2c:fd:ab:8f:5b:e8","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-44"}
+Sun Apr 21 09:26:18 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:26:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=54:48:e6:dc:8f:f1 satisfaction_now=79 anomalies=tcp_latency
+Sun Apr 21 09:26:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=24:4c:ab:43:21:7b satisfaction_now=68 anomalies=tcp_latency
+Sun Apr 21 09:26:28 2024 kern.warn kernel: [11639.147409] StaTXRetryBurstPeriodicExec: rai0 [a6:3a:1b:0c:e7:4d] tx_attempts=36050/36074, tx_retries=5533/5547, rssi=-65/-47, last_tx_rate=45251, burst_ratio=50/58, burst_count=30
+Sun Apr 21 09:26:30 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=24:4c:ab:43:21:7b satisfaction_now=68 anomalies=tcp_latency
+Sun Apr 21 09:26:30 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:26:58 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"4c:75:25:33:63:e3","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-72"}
+Sun Apr 21 09:27:21 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:27:36 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=25 anomalies=tcp_latency
+Sun Apr 21 09:28:02 2024 kern.warn kernel: [11733.458196] ra0: total mc2uc sta_cnt[33] pending[0] unknown_free[0] accu[0] !
+Sun Apr 21 09:28:06 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-47"}
+Sun Apr 21 09:28:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=7c:87:ce:65:5b:24 satisfaction_now=79 anomalies=tcp_latency
+Sun Apr 21 09:28:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=80:64:6f:81:3e:9a satisfaction_now=77 anomalies=tcp_latency
+Sun Apr 21 09:28:13 2024 kern.warn kernel: [11744.427303] StaTXRetryBurstPeriodicExec: rai0 [a6:3a:1b:0c:e7:4d] tx_attempts=36264/36305, tx_retries=5591/5612, rssi=-65/-47, last_tx_rate=45186, burst_ratio=50/51, burst_count=31
+Sun Apr 21 09:28:20 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=80:64:6f:81:3e:9a satisfaction_now=77 anomalies=tcp_latency
+Sun Apr 21 09:28:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=80:64:6f:81:3e:9a satisfaction_now=77 anomalies=tcp_latency
+Sun Apr 21 09:28:24 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:28:36 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"3a:8f:f5:89:f3:4f","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-60"}
+Sun Apr 21 09:28:55 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"e8:db:84:9e:6d:ec","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-64"}
+Sun Apr 21 09:28:57 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"2c:fd:ab:8f:5b:e8","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-43"}
+Sun Apr 21 09:28:58 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"e8:db:84:9e:93:bd","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-58"}
+Sun Apr 21 09:29:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=32 anomalies=tcp_latency
+Sun Apr 21 09:29:22 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=32 anomalies=tcp_latency
+Sun Apr 21 09:29:27 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:29:38 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=32 anomalies=tcp_latency
+Sun Apr 21 09:29:48 2024 kern.warn kernel: [11839.499359] addbarsp,(our)txba=64,(peer 3a:8f:f5:89:f3:4f)rxba=64
+Sun Apr 21 09:30:23 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=41 anomalies=tcp_latency
+Sun Apr 21 09:30:29 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:30:30 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=41 anomalies=tcp_latency
+Sun Apr 21 09:30:38 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=41 anomalies=tcp_latency
+Sun Apr 21 09:30:55 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:30:55 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"3c:61:05:84:5d:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-57"}
+Sun Apr 21 09:31:23 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:f1:3f:cf satisfaction_now=79 anomalies=tcp_latency
+Sun Apr 21 09:31:33 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:31:34 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=54:48:e6:dc:8f:f1 satisfaction_now=76 anomalies=tcp_latency
+Sun Apr 21 09:31:34 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:f1:3f:cf satisfaction_now=79 anomalies=tcp_latency
+Sun Apr 21 09:31:38 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=54:48:e6:dc:8f:f1 satisfaction_now=76 anomalies=tcp_latency
+Sun Apr 21 09:31:38 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:f1:3f:cf satisfaction_now=79 anomalies=tcp_latency
+Sun Apr 21 09:31:53 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=76 anomalies=tcp_latency
+Sun Apr 21 09:31:55 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=76 anomalies=tcp_latency
+Sun Apr 21 09:32:08 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:32:19 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-47"}
+Sun Apr 21 09:32:35 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:33:02 2024 kern.warn kernel: [12033.477800] ra0: total mc2uc sta_cnt[33] pending[0] unknown_free[0] accu[0] !
+Sun Apr 21 09:33:29 2024 kern.warn kernel: [12060.266871] StaTXRetryBurstPeriodicExec: rai0 [a6:3a:1b:0c:e7:4d] tx_attempts=36970/37001, tx_retries=5751/5767, rssi=-65/-47, last_tx_rate=45186, burst_ratio=50/51, burst_count=32
+Sun Apr 21 09:33:38 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:33:39 2024 kern.warn kernel: [12069.657055] Qidx(0), not enough space in DataRing, MgmtRingFullCount=3!
+Sun Apr 21 09:33:39 2024 kern.warn kernel: [12069.657096] Qidx(0), not enough space in DataRing, MgmtRingFullCount=6!
+Sun Apr 21 09:33:39 2024 kern.warn kernel: [12069.657116] Qidx(0), not enough space in DataRing, MgmtRingFullCount=9!
+Sun Apr 21 09:33:39 2024 kern.warn kernel: [12069.657137] Qidx(0), not enough space in DataRing, MgmtRingFullCount=12!
+Sun Apr 21 09:33:44 2024 kern.warn kernel: [12075.306871] StaTXRetryBurstPeriodicExec: rai0 [a6:3a:1b:0c:e7:4d] tx_attempts=37001/37042, tx_retries=5767/5791, rssi=-65/-47, last_tx_rate=47305, burst_ratio=50/58, burst_count=33
+Sun Apr 21 09:33:53 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=44 anomalies=tcp_latency
+Sun Apr 21 09:34:14 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-48"}
+Sun Apr 21 09:34:21 2024 kern.warn kernel: [12112.636326] CFG80211_PKT: TX AUTH Frame
+Sun Apr 21 09:34:21 2024 kern.warn kernel: [12112.636365] ra2: AUTH - CFG80211_AuthRespHandler
+Sun Apr 21 09:34:21 2024 daemon.info hostapd[2638]: ra2: STA 14:98:77:6e:41:1b IEEE 802.11: authenticated
+Sun Apr 21 09:34:22 2024 daemon.info hostapd[2638]: ra2: STA 14:98:77:6e:41:1b IEEE 802.11: associated
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.672866] CFG80211_AssocReqHandler(): peer support rate mode = 0x7
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.673044] ap_cmm_peer_assoc_req_action(): peer support rate mode = 0x7
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.673632] wevent: STA_JOIN ra2:34 [14:98:77:6e:41:1b]
+Sun Apr 21 09:34:22 2024 daemon.warn hostapd[2638]: RADIUS: wpa_driver_nl80211_hapd_send_eapol() ==> STA- 14:98:77:6e:41:1b
+Sun Apr 21 09:34:22 2024 daemon.warn hostapd[2638]: RADIUS: wpa_driver_nl80211_hapd_send_eapol() ==> AP- ae:8b:a9:a0:e2:75
+Sun Apr 21 09:34:22 2024 daemon.warn hostapd[2638]: RADIUS: Interface ra2 is in bridge br0.28
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.676420] ===[APAssocRespTxSHandler]: (RE=0, LE=0, ME=0), wlan_idx = 34
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.676464] ===[APAssocRespTxSHandler]: wlan_idx = 34,AuthAssocNotInProgressFlag = 1 pEntry->bssid ae:8b:a9:a0:e2:75
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.677098] ApAllowToSendPacket: 14:98:77:6e:41:1b PortSecure = 2, PSMode: 0, PSState: 0
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.677152] ra2: Send EAPOL-Key M1, DA=14:98:77:6e:41:1b, SA=ae:8b:a9:a0:e2:75, len=113
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.677249] wcid 34, EAPOL with rts prtoection
+Sun Apr 21 09:34:22 2024 daemon.warn hostapd[2638]: RADIUS: Send EAPOL Frame(Len: 99)
+Sun Apr 21 09:34:22 2024 user.info : wevent[2632]: wevent.ubnt_custom_event(): EVENT_STA_JOIN ra2: 14:98:77:6e:41:1b / 34
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.684319] APEapolTxSHandler: (RE=0, LE=0, ME=0), wlan_idx = 34
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.750741] ra2: Recv EAPOL-Key M2, DA=ae:8b:a9:a0:e2:75, SA=14:98:77:6e:41:1b, len=129
+Sun Apr 21 09:34:22 2024 daemon.warn hostapd[2638]: RADIUS: wpa_driver_nl80211_hapd_send_eapol() ==> STA- 14:98:77:6e:41:1b
+Sun Apr 21 09:34:22 2024 daemon.warn hostapd[2638]: RADIUS: wpa_driver_nl80211_hapd_send_eapol() ==> AP- ae:8b:a9:a0:e2:75
+Sun Apr 21 09:34:22 2024 daemon.warn hostapd[2638]: RADIUS: Interface ra2 is in bridge br0.28
+Sun Apr 21 09:34:22 2024 daemon.warn hostapd[2638]: RADIUS: Send EAPOL Frame(Len: 155)
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.753022] ApAllowToSendPacket: 14:98:77:6e:41:1b PortSecure = 2, PSMode: 0, PSState: 0
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.753083] ra2: Send EAPOL-Key M3, DA=14:98:77:6e:41:1b, SA=ae:8b:a9:a0:e2:75, len=169
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.753166] wcid 34, EAPOL with rts prtoection
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.754478] APEapolTxSHandler: (RE=0, LE=0, ME=0), wlan_idx = 34
+Sun Apr 21 09:34:22 2024 daemon.info hostapd[2638]: ra2: STA 14:98:77:6e:41:1b WPA: pairwise key handshake completed (RSN)
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.763115] ra2: Recv EAPOL-Key M4, DA=ae:8b:a9:a0:e2:75, SA=14:98:77:6e:41:1b, len=107
+Sun Apr 21 09:34:22 2024 kern.warn kernel: [12112.763796] 80211> AP Key Add
+Sun Apr 21 09:34:22 2024 user.info : wevent[2632]: wevent.ubnt_custom_event(): EVENT_STA_IP ra2: 14:98:77:6e:41:1b / 192.168.28.228
+Sun Apr 21 09:34:23 2024 kern.info kernel: [12113.917044] [DHCP-SM] 14:98:77:6e:41:1b: d-20-o-1070-r-20-a
+Sun Apr 21 09:34:25 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"success","assoc_status":"0","traffic_delta":"3370000","dns_responses":"1","dns_timeouts":"0","ip_delta":"1290000","ip_assign_type":"dhcp","wpa_auth_delta":"130000","assoc_delta":"40000","auth_delta":"0","event_id":"1","auth_ts":"12112.591364","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-61"}
+Sun Apr 21 09:34:32 2024 daemon.info hostapd[2638]: ra2: STA 14:98:77:6e:41:1b RADIUS: starting accounting session D6012A562BE2E4A4
+Sun Apr 21 09:34:33 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:34:40 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-57"}
+Sun Apr 21 09:34:49 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:34:53 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:35:08 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:35:13 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:35:13 2024 authpriv.info dropbear[18365]: Child connection from 192.168.10.61:53334
+Sun Apr 21 09:35:23 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:35:26 2024 kern.warn kernel: [12177.084949] Ring No = 1
+Sun Apr 21 09:35:34 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=c8:c9:a3:54:16:24 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:35:34 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:35:38 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=c8:c9:a3:54:16:24 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:35:38 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=7c:87:ce:65:71:38 satisfaction_now=73 anomalies=tcp_latency
+Sun Apr 21 09:35:38 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:35:39 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-58"}
+Sun Apr 21 09:35:40 2024 kern.info kernel: [12191.530220] [DHCP-SM] 7c:87:ce:65:71:38: d-10-o-100-r-30-a-3599590-r-0-a-3599900-r-10-a-4949870-r-10-a
+Sun Apr 21 09:35:43 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:35:53 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=54:48:e6:dc:8f:f1 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:35:55 2024 authpriv.notice dropbear[18365]: Password auth succeeded for 'admin' from 192.168.10.61:53334
+Sun Apr 21 09:35:55 2024 user.warn : ubntbox[18477]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:35:56 2024 kern.info kernel: [12206.832692] [DHCP-SM] 80:64:6f:81:3e:9a: d-20-o-150-r-30-a-3575270-r-10-a-3628770-r-10-a-4955850-r-10-a
+Sun Apr 21 09:35:57 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=54:48:e6:dc:8f:f1 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:36:08 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=27 anomalies=tcp_latency
+Sun Apr 21 09:36:15 2024 kern.warn kernel: [12226.130036] Ring No = 1
+Sun Apr 21 09:36:15 2024 kern.warn kernel: [12226.130072] Ring No = 1
+Sun Apr 21 09:36:15 2024 kern.warn kernel: [12226.130084] Ring No = 1
+Sun Apr 21 09:36:15 2024 kern.warn kernel: [12226.130096] Ring No = 1
+Sun Apr 21 09:36:15 2024 kern.warn kernel: [12226.130108] Ring No = 1
+Sun Apr 21 09:36:15 2024 kern.warn kernel: [12226.130119] Ring No = 1
+Sun Apr 21 09:36:15 2024 kern.warn kernel: [12226.130131] Ring No = 1
+Sun Apr 21 09:36:20 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=66 anomalies=tcp_latency
+Sun Apr 21 09:36:23 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=66 anomalies=tcp_latency
+Sun Apr 21 09:36:29 2024 user.warn : ubntbox[18561]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:36:38 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=66 anomalies=tcp_latency
+Sun Apr 21 09:36:41 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=66 anomalies=tcp_latency
+Sun Apr 21 09:36:43 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-59"}
+Sun Apr 21 09:36:46 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:36:49 2024 user.warn : ubntbox[18618]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:36:51 2024 user.warn : ubntbox[18698]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:37:15 2024 kern.warn kernel: [12285.866604] StaTXRetryBurstPeriodicExec: rai0 [a6:3a:1b:0c:e7:4d] tx_attempts=37421/37451, tx_retries=5873/5892, rssi=-65/-48, last_tx_rate=45189, burst_ratio=50/63, burst_count=34
+Sun Apr 21 09:37:23 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=66 anomalies=tcp_latency
+Sun Apr 21 09:37:28 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=66 anomalies=tcp_latency
+Sun Apr 21 09:37:38 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=66 anomalies=tcp_latency
+Sun Apr 21 09:37:47 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-57"}
+Sun Apr 21 09:37:49 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:38:02 2024 kern.warn kernel: [12333.487311] ra0: total mc2uc sta_cnt[34] pending[0] unknown_free[0] accu[0] !
+Sun Apr 21 09:38:14 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=54 anomalies=tcp_latency
+Sun Apr 21 09:38:24 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=54 anomalies=tcp_latency
+Sun Apr 21 09:38:35 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=54 anomalies=tcp_latency
+Sun Apr 21 09:38:35 2024 kern.warn kernel: [12366.487658] ra2: Set TIM for STA-14:98:77:6e:41:1b idle(60) timeout(180)
+Sun Apr 21 09:38:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=54 anomalies=tcp_latency
+Sun Apr 21 09:38:39 2024 kern.warn kernel: [12370.437641] Ring No = 1
+Sun Apr 21 09:38:39 2024 kern.warn kernel: [12370.437676] Ring No = 1
+Sun Apr 21 09:38:39 2024 kern.warn kernel: [12370.437688] Ring No = 1
+Sun Apr 21 09:38:39 2024 kern.warn kernel: [12370.437699] Ring No = 1
+Sun Apr 21 09:38:39 2024 kern.warn kernel: [12370.437711] Ring No = 1
+Sun Apr 21 09:38:39 2024 kern.warn kernel: [12370.437723] Ring No = 1
+Sun Apr 21 09:38:39 2024 kern.warn kernel: [12370.437734] Ring No = 1
+Sun Apr 21 09:38:52 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-59"}
+Sun Apr 21 09:38:52 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-52"}
+Sun Apr 21 09:39:09 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=41 anomalies=tcp_latency
+Sun Apr 21 09:39:21 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:ed:92:ae satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:39:21 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=41 anomalies=tcp_latency
+Sun Apr 21 09:39:24 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:ed:92:ae satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:39:24 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=41 anomalies=tcp_latency
+Sun Apr 21 09:39:32 2024 user.warn : ubntbox[18920]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:39:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:ed:92:ae satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:39:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=73 anomalies=tcp_latency
+Sun Apr 21 09:39:43 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-47"}
+Sun Apr 21 09:39:44 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:ed:92:ae satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:39:55 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-56"}
+Sun Apr 21 09:39:55 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:40:05 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:b9:d5:c0 satisfaction_now=76 anomalies=tcp_latency
+Sun Apr 21 09:40:05 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=59 anomalies=tcp_latency
+Sun Apr 21 09:40:09 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:b9:d5:c0 satisfaction_now=76 anomalies=tcp_latency
+Sun Apr 21 09:40:09 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=59 anomalies=tcp_latency
+Sun Apr 21 09:40:24 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:b9:d5:c0 satisfaction_now=76 anomalies=tcp_latency
+Sun Apr 21 09:40:24 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=59 anomalies=tcp_latency
+Sun Apr 21 09:40:25 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:b9:d5:c0 satisfaction_now=76 anomalies=tcp_latency
+Sun Apr 21 09:40:25 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=59 anomalies=tcp_latency
+Sun Apr 21 09:40:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:40:46 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=64 anomalies=tcp_latency
+Sun Apr 21 09:40:46 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:40:58 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-60"}
+Sun Apr 21 09:40:59 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:41:00 2024 kern.warn kernel: [12511.466301] StaTXRetryBurstPeriodicExec: rai0 [a6:3a:1b:0c:e7:4d] tx_attempts=37713/37748, tx_retries=5950/5969, rssi=-65/-46, last_tx_rate=48262, burst_ratio=50/54, burst_count=35
+Sun Apr 21 09:41:06 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=71 anomalies=tcp_latency
+Sun Apr 21 09:41:09 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=71 anomalies=tcp_latency
+Sun Apr 21 09:41:24 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=71 anomalies=tcp_latency
+Sun Apr 21 09:41:27 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=71 anomalies=tcp_latency
+Sun Apr 21 09:41:29 2024 authpriv.info dropbear[18365]: Exit (admin) from <192.168.10.61:53334>: Disconnect received
+Sun Apr 21 09:41:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=71 anomalies=tcp_latency
+Sun Apr 21 09:41:46 2024 kern.warn kernel: [12557.507255] ra2: Set TIM for STA-14:98:77:6e:41:1b idle(60) timeout(180)
+Sun Apr 21 09:41:47 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=71 anomalies=tcp_latency
+Sun Apr 21 09:42:02 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:42:02 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-58"}
+Sun Apr 21 09:42:07 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=73 anomalies=tcp_latency
+Sun Apr 21 09:42:09 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=73 anomalies=tcp_latency
+Sun Apr 21 09:42:16 2024 kern.warn kernel: [12586.666200] StaTXRetryBurstPeriodicExec: rai0 [a6:3a:1b:0c:e7:4d] tx_attempts=37824/37837, tx_retries=5997/6004, rssi=-65/-47, last_tx_rate=47242, burst_ratio=50/53, burst_count=36
+Sun Apr 21 09:42:24 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:f1:6b:1e satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:42:24 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=73 anomalies=tcp_latency
+Sun Apr 21 09:42:31 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:f1:6b:1e satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:42:31 2024 kern.warn kernel: [12601.706270] StaTXRetryBurstPeriodicExec: rai0 [a6:3a:1b:0c:e7:4d] tx_attempts=37837/37848, tx_retries=6004/6010, rssi=-65/-47, last_tx_rate=46279, burst_ratio=50/54, burst_count=37
+Sun Apr 21 09:42:31 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=73 anomalies=tcp_latency
+Sun Apr 21 09:42:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:f1:6b:1e satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:42:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=73 anomalies=tcp_latency
+Sun Apr 21 09:42:52 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:f1:6b:1e satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:43:02 2024 kern.warn kernel: [12633.506948] ra0: total mc2uc sta_cnt[34] pending[0] unknown_free[0] accu[0] !
+Sun Apr 21 09:43:05 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-52"}
+Sun Apr 21 09:43:06 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-58"}
+Sun Apr 21 09:43:33 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=4c:75:25:33:63:e3 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:43:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=4c:75:25:33:63:e3 satisfaction_now=78 anomalies=tcp_latency
+Sun Apr 21 09:44:00 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"2c:fd:ab:8f:5b:e8","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-45"}
+Sun Apr 21 09:44:07 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-60"}
+Sun Apr 21 09:44:08 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:44:09 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=2c:fd:ab:8f:5b:e8 satisfaction_now=60 anomalies=dns_latency
+Sun Apr 21 09:44:13 2024 authpriv.info dropbear[19295]: Child connection from 192.168.10.61:53493
+Sun Apr 21 09:44:28 2024 authpriv.notice dropbear[19295]: Password auth succeeded for 'admin' from 192.168.10.61:53493
+Sun Apr 21 09:44:28 2024 authpriv.info dropbear[19295]: Exit (admin) from <192.168.10.61:53493>: Disconnect received
+Sun Apr 21 09:44:28 2024 user.warn : ubntbox[19381]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:44:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=52 anomalies=tcp_latency
+Sun Apr 21 09:44:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=52 anomalies=tcp_latency
+Sun Apr 21 09:44:54 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=52 anomalies=tcp_latency
+Sun Apr 21 09:44:54 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=42 anomalies=tcp_latency
+Sun Apr 21 09:45:11 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:45:12 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"3a:8f:f5:89:f3:4f","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-60"}
+Sun Apr 21 09:45:13 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-59"}
+Sun Apr 21 09:45:21 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-48"}
+Sun Apr 21 09:45:31 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"3a:8f:f5:89:f3:4f","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-60"}
+Sun Apr 21 09:45:59 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"3a:8f:f5:89:f3:4f","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-60"}
+Sun Apr 21 09:46:01 2024 kern.warn kernel: [12812.506725] ra2: Set TIM for STA-14:98:77:6e:41:1b idle(60) timeout(180)
+Sun Apr 21 09:46:06 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=56 anomalies=tcp_latency
+Sun Apr 21 09:46:09 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=56 anomalies=tcp_latency
+Sun Apr 21 09:46:14 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:46:17 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-59"}
+Sun Apr 21 09:46:24 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=56 anomalies=tcp_latency
+Sun Apr 21 09:46:29 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=56 anomalies=tcp_latency
+Sun Apr 21 09:46:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=65 anomalies=tcp_latency
+Sun Apr 21 09:46:51 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=65 anomalies=tcp_latency
+Sun Apr 21 09:46:51 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:46:54 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:be:50 satisfaction_now=65 anomalies=tcp_latency
+Sun Apr 21 09:46:54 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:46:54 2024 kern.info kernel: [12865.480145] [DHCP-SM] a8:03:2a:bb:81:cc: d-30-o-10-r-50-a-3599020-r-10-a-3599900-r-10-a-5624860-r-10-a
+Sun Apr 21 09:47:11 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-48"}
+Sun Apr 21 09:47:17 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:47:21 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-60"}
+Sun Apr 21 09:47:51 2024 authpriv.info dropbear[19592]: Child connection from 192.168.10.61:53591
+Sun Apr 21 09:47:51 2024 authpriv.notice dropbear[19592]: Password auth succeeded for 'admin' from 192.168.10.61:53591
+Sun Apr 21 09:47:52 2024 user.warn : ubntbox[19676]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:48:02 2024 kern.warn kernel: [12933.440053] addbarsp,(our)txba=64,(peer 3a:8f:f5:89:f3:4f)rxba=64
+Sun Apr 21 09:48:02 2024 kern.warn kernel: [12933.516806] ra0: total mc2uc sta_cnt[34] pending[0] unknown_free[0] accu[0] !
+Sun Apr 21 09:48:09 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=54:48:e6:dc:8f:f1 satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:48:09 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=3a:8f:f5:89:f3:4f satisfaction_now=70 anomalies=
+Sun Apr 21 09:48:19 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=7c:87:ce:65:71:38 satisfaction_now=71 anomalies=tcp_latency
+Sun Apr 21 09:48:19 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=3a:8f:f5:89:f3:4f satisfaction_now=70 anomalies=
+Sun Apr 21 09:48:20 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:48:24 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=7c:87:ce:65:71:38 satisfaction_now=71 anomalies=tcp_latency
+Sun Apr 21 09:48:24 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=3a:8f:f5:89:f3:4f satisfaction_now=70 anomalies=
+Sun Apr 21 09:48:25 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-59"}
+Sun Apr 21 09:48:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=7c:87:ce:65:71:38 satisfaction_now=71 anomalies=tcp_latency
+Sun Apr 21 09:48:39 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=3a:8f:f5:89:f3:4f satisfaction_now=70 anomalies=
+Sun Apr 21 09:48:43 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=7c:87:ce:65:71:38 satisfaction_now=71 anomalies=tcp_latency
+Sun Apr 21 09:48:43 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=3a:8f:f5:89:f3:4f satisfaction_now=70 anomalies=
+Sun Apr 21 09:48:54 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=7c:87:ce:65:71:38 satisfaction_now=75 anomalies=tcp_latency
+Sun Apr 21 09:48:54 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=3a:8f:f5:89:f3:4f satisfaction_now=70 anomalies=
+Sun Apr 21 09:49:13 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-47"}
+Sun Apr 21 09:49:23 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:49:25 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:ed:92:ae satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:49:28 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:ed:92:ae satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:49:29 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-59"}
+Sun Apr 21 09:49:40 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:ed:92:ae satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:49:47 2024 kern.warn kernel: [13037.865579] StaTXRetryBurstPeriodicExec: rai0 [a6:3a:1b:0c:e7:4d] tx_attempts=38622/38639, tx_retries=6147/6156, rssi=-65/-47, last_tx_rate=45193, burst_ratio=50/52, burst_count=38
+Sun Apr 21 09:49:51 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:ed:92:ae satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:49:55 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=e8:68:e7:ed:92:ae satisfaction_now=74 anomalies=tcp_latency
+Sun Apr 21 09:50:18 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-48"}
+Sun Apr 21 09:50:25 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=7c:87:ce:65:5b:24 satisfaction_now=77 anomalies=tcp_latency
+Sun Apr 21 09:50:26 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:50:33 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-59"}
+Sun Apr 21 09:50:37 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=7c:87:ce:65:5b:24 satisfaction_now=77 anomalies=tcp_latency
+Sun Apr 21 09:50:40 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=7c:87:ce:65:5b:24 satisfaction_now=77 anomalies=tcp_latency
+Sun Apr 21 09:50:55 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=5 anomalies=tcp_latency
+Sun Apr 21 09:51:00 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ae:8b:a9:a0:e2:75 radio=ra0 vap=ra2 sta=a8:03:2a:bb:81:cc satisfaction_now=10 anomalies=tcp_latency
+Sun Apr 21 09:51:08 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-48"}
+Sun Apr 21 09:51:30 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-52"}
+Sun Apr 21 09:51:37 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-59"}
+Sun Apr 21 09:51:48 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"80:64:6f:81:3e:9a","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-58"}
+Sun Apr 21 09:52:13 2024 authpriv.info dropbear[19958]: Child connection from 192.168.10.61:53673
+Sun Apr 21 09:52:30 2024 authpriv.notice dropbear[19958]: Password auth succeeded for 'admin' from 192.168.10.61:53673
+Sun Apr 21 09:52:30 2024 authpriv.info dropbear[19958]: Exit (admin) from <192.168.10.61:53673>: Disconnect received
+Sun Apr 21 09:52:30 2024 user.warn : ubntbox[20042]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:52:33 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:52:41 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-59"}
+Sun Apr 21 09:52:43 2024 authpriv.info dropbear[20049]: Child connection from 192.168.10.61:53678
+Sun Apr 21 09:52:51 2024 authpriv.notice dropbear[20049]: Password auth succeeded for 'admin' from 192.168.10.61:53678
+Sun Apr 21 09:52:52 2024 user.warn : ubntbox[20127]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:52:55 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=62 anomalies=tcp_latency
+Sun Apr 21 09:52:55 2024 daemon.info mcad: mcad[2642]: wireless_agg_stats.log_sta_anomalies(): bssid=ac:8b:a9:a0:e2:76 radio=rai0 vap=rai0 sta=a6:3a:1b:0c:e7:4d satisfaction_now=62 anomalies=tcp_latency
+Sun Apr 21 09:53:00 2024 user.warn : ubntbox[20180]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:53:02 2024 kern.warn kernel: [13233.526223] ra0: total mc2uc sta_cnt[34] pending[0] unknown_free[0] accu[0] !
+Sun Apr 21 09:53:06 2024 user.warn : ubntbox[20260]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:53:25 2024 kern.warn kernel: [13256.526135] ra2: Set TIM for STA-14:98:77:6e:41:1b idle(60) timeout(180)
+Sun Apr 21 09:53:36 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:53:45 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-61"}
+Sun Apr 21 09:54:38 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"a6:3a:1b:0c:e7:4d","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-47"}
+Sun Apr 21 09:54:39 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:54:49 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-60"}
+Sun Apr 21 09:55:11 2024 user.warn : ubntbox[20456]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:55:32 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"20:1f:3b:d8:95:5c","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","sta_dc_reason":"sta left","avg_rssi":"-53"}
+Sun Apr 21 09:55:50 2024 user.warn : ubntbox[20543]: trace.put_trace(): PUT 'https://trace.svc.ui.com/traces' failed: [7] Error
+Sun Apr 21 09:55:53 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"14:98:77:6e:41:1b","vap":"ra2","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-62"}

@@ -1,0 +1,216 @@
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547377] 	3 	0x4330 	0x00214000 	0x40 	0x10 	0x10 	0x10
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547385]
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547385] RxRing Configuration
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547397] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547410] 	0 	0x4400 	0x0021b000 	0x80 	0x6a 	0x7c 	0x6b
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547423] 	1 	0x4410 	0x0021e000 	0x80 	0x6a 	0x6b 	0x6b
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547431]
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547431] MgmtRing Configuration
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547443] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX	FreeNum
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547457] 	0 	0x4340 	0x00215000 	0x80 	0x3c 	0x3d 	0x3d	0x0
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547465]
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547465] BcnRing Configuration
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547477] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX 	FreeNum
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547491] 	0 	0x4370 	0x00219000 	0x14 	0x4 	0x2 	0x2 	0x11
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547503] 	Tx/RxDMAEn=1/4, 	Tx/RxDMABusy=2/8
+Sun Apr 21 10:45:35 2024 kern.warn kernel: [16386.547519] APCheckBcnQHandler Setting DMA Busy mac val 5200087f bcn did 2
+Sun Apr 21 10:45:36 2024 kern.warn kernel: [16387.059259] APCheckBcnQHandler mac_val 5200087f bcn_did 2
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281700] TxRing Configuration
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281737] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281753] 	0 	0x4310 	0x0031b000 	0x40 	0x8 	0x9 	0x9
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281765] 	1 	0x4300 	0x0031e000 	0x40 	0x0 	0x0 	0x0
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281778] 	2 	0x4320 	0x0031f000 	0x40 	0x4 	0x4 	0x4
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281791] 	3 	0x4330 	0x00214000 	0x40 	0x10 	0x10 	0x10
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281799]
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281799] RxRing Configuration
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281811] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281824] 	0 	0x4400 	0x0021b000 	0x80 	0x6a 	0x7c 	0x6b
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281836] 	1 	0x4410 	0x0021e000 	0x80 	0x6a 	0x6b 	0x6b
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281844]
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281844] MgmtRing Configuration
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281857] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX	FreeNum
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281871] 	0 	0x4340 	0x00215000 	0x80 	0x3c 	0x3d 	0x3d	0x0
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281879]
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281879] BcnRing Configuration
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281891] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX 	FreeNum
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281905] 	0 	0x4370 	0x00219000 	0x14 	0x4 	0x2 	0x2 	0x11
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281917] 	Tx/RxDMAEn=1/4, 	Tx/RxDMABusy=2/8
+Sun Apr 21 10:45:41 2024 kern.warn kernel: [16392.281933] APCheckBcnQHandler Setting DMA Busy mac val 5200087f bcn did 2
+Sun Apr 21 10:45:42 2024 kern.warn kernel: [16392.793687] APCheckBcnQHandler mac_val 5200087f bcn_did 2
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016112] TxRing Configuration
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016149] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016164] 	0 	0x4310 	0x0031b000 	0x40 	0x8 	0x9 	0x9
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016177] 	1 	0x4300 	0x0031e000 	0x40 	0x0 	0x0 	0x0
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016189] 	2 	0x4320 	0x0031f000 	0x40 	0x4 	0x4 	0x4
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016202] 	3 	0x4330 	0x00214000 	0x40 	0x10 	0x10 	0x10
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016210]
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016210] RxRing Configuration
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016223] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016236] 	0 	0x4400 	0x0021b000 	0x80 	0x6a 	0x7c 	0x6b
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016249] 	1 	0x4410 	0x0021e000 	0x80 	0x6a 	0x6b 	0x6b
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016257]
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016257] MgmtRing Configuration
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016269] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX	FreeNum
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016283] 	0 	0x4340 	0x00215000 	0x80 	0x3c 	0x3d 	0x3d	0x0
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016291]
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016291] BcnRing Configuration
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016304] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX 	FreeNum
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016318] 	0 	0x4370 	0x00219000 	0x14 	0x4 	0x2 	0x2 	0x11
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016330] 	Tx/RxDMAEn=1/4, 	Tx/RxDMABusy=2/8
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.016346] APCheckBcnQHandler Setting DMA Busy mac val 5200087f bcn did 2
+Sun Apr 21 10:45:47 2024 kern.warn kernel: [16398.528082] APCheckBcnQHandler mac_val 5200087f bcn_did 2
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750520] TxRing Configuration
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750556] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750620] 	0 	0x4310 	0x0031b000 	0x40 	0x8 	0x9 	0x9
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750643] 	1 	0x4300 	0x0031e000 	0x40 	0x0 	0x0 	0x0
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750659] 	2 	0x4320 	0x0031f000 	0x40 	0x4 	0x4 	0x4
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750700] 	3 	0x4330 	0x00214000 	0x40 	0x10 	0x10 	0x10
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750740]
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750740] RxRing Configuration
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750787] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750803] 	0 	0x4400 	0x0021b000 	0x80 	0x6a 	0x7c 	0x6b
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750821] 	1 	0x4410 	0x0021e000 	0x80 	0x6a 	0x6b 	0x6b
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750833]
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750833] MgmtRing Configuration
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750854] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX	FreeNum
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750873] 	0 	0x4340 	0x00215000 	0x80 	0x3c 	0x3d 	0x3d	0x0
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750884]
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750884] BcnRing Configuration
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750901] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX 	FreeNum
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750920] 	0 	0x4370 	0x00219000 	0x14 	0x4 	0x2 	0x2 	0x11
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750936] 	Tx/RxDMAEn=1/4, 	Tx/RxDMABusy=2/8
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16403.750957] APCheckBcnQHandler Setting DMA Busy mac val 5200087f bcn did 2
+Sun Apr 21 10:45:53 2024 kern.warn kernel: [16404.262494] APCheckBcnQHandler mac_val 5200087f bcn_did 2
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.484937] TxRing Configuration
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.484973] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.484988] 	0 	0x4310 	0x0031b000 	0x40 	0x8 	0x9 	0x9
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485001] 	1 	0x4300 	0x0031e000 	0x40 	0x0 	0x0 	0x0
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485013] 	2 	0x4320 	0x0031f000 	0x40 	0x4 	0x4 	0x4
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485026] 	3 	0x4330 	0x00214000 	0x40 	0x10 	0x10 	0x10
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485034]
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485034] RxRing Configuration
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485047] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485060] 	0 	0x4400 	0x0021b000 	0x80 	0x6a 	0x7c 	0x6b
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485073] 	1 	0x4410 	0x0021e000 	0x80 	0x6a 	0x6b 	0x6b
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485081]
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485081] MgmtRing Configuration
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485094] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX	FreeNum
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485108] 	0 	0x4340 	0x00215000 	0x80 	0x3c 	0x3d 	0x3d	0x0
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485116]
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485116] BcnRing Configuration
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485128] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX 	FreeNum
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485142] 	0 	0x4370 	0x00219000 	0x14 	0x4 	0x2 	0x2 	0x11
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485154] 	Tx/RxDMAEn=1/4, 	Tx/RxDMABusy=2/8
+Sun Apr 21 10:45:58 2024 kern.warn kernel: [16409.485171] APCheckBcnQHandler Setting DMA Busy mac val 5200087f bcn did 2
+Sun Apr 21 10:45:59 2024 kern.warn kernel: [16409.996903] APCheckBcnQHandler mac_val 5200087f bcn_did 2
+Sun Apr 21 10:46:02 2024 daemon.info stahtd: stahtd[2633]: [STA-TRACKER].stahtd_dump_event(): {"message_type":"STA_ASSOC_TRACKER","mac":"3a:8f:f5:89:f3:4f","vap":"rai0","event_type":"fixup","assoc_status":"0","event_id":"1","arp_reply_gw_seen":"yes","dns_resp_seen":"yes","avg_rssi":"-60"}
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219342] TxRing Configuration
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219379] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219394] 	0 	0x4310 	0x0031b000 	0x40 	0x8 	0x9 	0x9
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219407] 	1 	0x4300 	0x0031e000 	0x40 	0x0 	0x0 	0x0
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219420] 	2 	0x4320 	0x0031f000 	0x40 	0x4 	0x4 	0x4
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219432] 	3 	0x4330 	0x00214000 	0x40 	0x10 	0x10 	0x10
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219441]
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219441] RxRing Configuration
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219453] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219466] 	0 	0x4400 	0x0021b000 	0x80 	0x6a 	0x7c 	0x6b
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219479] 	1 	0x4410 	0x0021e000 	0x80 	0x6a 	0x6b 	0x6b
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219487]
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219487] MgmtRing Configuration
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219500] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX	FreeNum
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219514] 	0 	0x4340 	0x00215000 	0x80 	0x3c 	0x3d 	0x3d	0x0
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219522]
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219522] BcnRing Configuration
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219534] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX 	FreeNum
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219548] 	0 	0x4370 	0x00219000 	0x14 	0x4 	0x2 	0x2 	0x11
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219560] 	Tx/RxDMAEn=1/4, 	Tx/RxDMABusy=2/8
+Sun Apr 21 10:46:04 2024 kern.warn kernel: [16415.219577] APCheckBcnQHandler Setting DMA Busy mac val 5200087f bcn did 2
+Sun Apr 21 10:46:05 2024 kern.warn kernel: [16415.731315] APCheckBcnQHandler mac_val 5200087f bcn_did 2
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953756] TxRing Configuration
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953792] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953807] 	0 	0x4310 	0x0031b000 	0x40 	0x8 	0x9 	0x9
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953820] 	1 	0x4300 	0x0031e000 	0x40 	0x0 	0x0 	0x0
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953832] 	2 	0x4320 	0x0031f000 	0x40 	0x4 	0x4 	0x4
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953845] 	3 	0x4330 	0x00214000 	0x40 	0x10 	0x10 	0x10
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953853]
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953853] RxRing Configuration
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953866] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953879] 	0 	0x4400 	0x0021b000 	0x80 	0x6a 	0x7c 	0x6b
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953892] 	1 	0x4410 	0x0021e000 	0x80 	0x6a 	0x6b 	0x6b
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953900]
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953900] MgmtRing Configuration
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953912] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX	FreeNum
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953926] 	0 	0x4340 	0x00215000 	0x80 	0x3c 	0x3d 	0x3d	0x0
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953934]
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953934] BcnRing Configuration
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953947] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX 	FreeNum
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953961] 	0 	0x4370 	0x00219000 	0x14 	0x4 	0x2 	0x2 	0x11
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953973] 	Tx/RxDMAEn=1/4, 	Tx/RxDMABusy=2/8
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16420.953989] APCheckBcnQHandler Setting DMA Busy mac val 5200087f bcn did 2
+Sun Apr 21 10:46:10 2024 kern.warn kernel: [16421.465725] APCheckBcnQHandler mac_val 5200087f bcn_did 2
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688162] TxRing Configuration
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688197] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688213] 	0 	0x4310 	0x0031b000 	0x40 	0x8 	0x9 	0x9
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688225] 	1 	0x4300 	0x0031e000 	0x40 	0x0 	0x0 	0x0
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688238] 	2 	0x4320 	0x0031f000 	0x40 	0x4 	0x4 	0x4
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688251] 	3 	0x4330 	0x00214000 	0x40 	0x10 	0x10 	0x10
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688259]
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688259] RxRing Configuration
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688271] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688284] 	0 	0x4400 	0x0021b000 	0x80 	0x6a 	0x7c 	0x6b
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688297] 	1 	0x4410 	0x0021e000 	0x80 	0x6a 	0x6b 	0x6b
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688305]
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688305] MgmtRing Configuration
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688318] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX	FreeNum
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688332] 	0 	0x4340 	0x00215000 	0x80 	0x3c 	0x3d 	0x3d	0x0
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688340]
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688340] BcnRing Configuration
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688353] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX 	FreeNum
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688366] 	0 	0x4370 	0x00219000 	0x14 	0x4 	0x2 	0x2 	0x11
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688379] 	Tx/RxDMAEn=1/4, 	Tx/RxDMABusy=2/8
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16426.688395] APCheckBcnQHandler Setting DMA Busy mac val 5200087f bcn did 2
+Sun Apr 21 10:46:16 2024 kern.warn kernel: [16427.200146] APCheckBcnQHandler mac_val 5200087f bcn_did 2
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422569] TxRing Configuration
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422605] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422621] 	0 	0x4310 	0x0031b000 	0x40 	0x8 	0x9 	0x9
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422633] 	1 	0x4300 	0x0031e000 	0x40 	0x0 	0x0 	0x0
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422646] 	2 	0x4320 	0x0031f000 	0x40 	0x4 	0x4 	0x4
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422658] 	3 	0x4330 	0x00214000 	0x40 	0x10 	0x10 	0x10
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422667]
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422667] RxRing Configuration
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422679] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422692] 	0 	0x4400 	0x0021b000 	0x80 	0x6a 	0x7c 	0x6b
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422705] 	1 	0x4410 	0x0021e000 	0x80 	0x6a 	0x6b 	0x6b
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422713]
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422713] MgmtRing Configuration
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422726] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX	FreeNum
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422740] 	0 	0x4340 	0x00215000 	0x80 	0x3c 	0x3d 	0x3d	0x0
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422748]
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422748] BcnRing Configuration
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422761] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX 	FreeNum
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422774] 	0 	0x4370 	0x00219000 	0x14 	0x4 	0x2 	0x2 	0x11
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422787] 	Tx/RxDMAEn=1/4, 	Tx/RxDMABusy=2/8
+Sun Apr 21 10:46:21 2024 kern.warn kernel: [16432.422803] APCheckBcnQHandler Setting DMA Busy mac val 5200087f bcn did 2
+Sun Apr 21 10:46:22 2024 kern.warn kernel: [16432.934551] APCheckBcnQHandler mac_val 5200087f bcn_did 2
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.156984] TxRing Configuration
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157021] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157036] 	0 	0x4310 	0x0031b000 	0x40 	0x8 	0x9 	0x9
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157049] 	1 	0x4300 	0x0031e000 	0x40 	0x0 	0x0 	0x0
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157061] 	2 	0x4320 	0x0031f000 	0x40 	0x4 	0x4 	0x4
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157074] 	3 	0x4330 	0x00214000 	0x40 	0x10 	0x10 	0x10
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157083]
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157083] RxRing Configuration
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157095] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157108] 	0 	0x4400 	0x0021b000 	0x80 	0x6a 	0x7c 	0x6b
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157121] 	1 	0x4410 	0x0021e000 	0x80 	0x6a 	0x6b 	0x6b
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157129]
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157129] MgmtRing Configuration
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157142] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX	SWIDX	FreeNum
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157156] 	0 	0x4340 	0x00215000 	0x80 	0x3c 	0x3d 	0x3d	0x0
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157164]
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157164] BcnRing Configuration
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157176] 	RingIdx Reg 	Base 		Cnt 	CIDX 	DIDX 	SWIDX 	FreeNum
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157190] 	0 	0x4370 	0x00219000 	0x14 	0x4 	0x2 	0x2 	0x11
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157202] 	Tx/RxDMAEn=1/4, 	Tx/RxDMABusy=2/8
+Sun Apr 21 10:46:27 2024 kern.warn kernel: [16438.157219] APCheckBcnQHandler Setting DMA Busy mac val 5200087f bcn did 2
+Sun Apr 21 10:46:28 2024 kern.warn kernel: [16438.668963] APCheckBcnQHandler mac_val 5200087f bcn_did 2
